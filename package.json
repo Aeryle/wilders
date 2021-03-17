@@ -1,0 +1,27 @@
+{
+  "name": "wilders",
+  "version": "0.1.0",
+  "description": "A list of wilders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aeryle/wilders.git"
+  },
+  "keywords": [
+    "wildschool",
+    "wilders"
+  ],
+  "author": "Aeryle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aeryle/wilders/issues"
+  },
+  "homepage": "https://github.com/Aeryle/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
